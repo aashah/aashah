@@ -1,4 +1,4 @@
-yo :beers:
+yo 💩
 
 <!--
 **aashah/aashah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
